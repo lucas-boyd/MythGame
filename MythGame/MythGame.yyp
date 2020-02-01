@@ -39,10 +39,18 @@
             }
         },
         {
+            "Key": "04afb568-fc1a-411b-a397-9b37216ced03",
+            "Value": {
+                "id": "ebdc45c4-4ffe-486c-9d3f-6a4c9df71162",
+                "resourcePath": "objects\\obj_fog_spawner\\obj_fog_spawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "144ffd8b-2cf7-4fb5-b849-8a44f7d64010",
             "Value": {
                 "id": "0c203e0d-aeba-484d-b7cc-93a20f6da203",
-                "resourcePath": "sprites\\sprite3\\sprite3.yy",
+                "resourcePath": "sprites\\spr_box\\spr_box.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -55,11 +63,27 @@
             }
         },
         {
+            "Key": "2553e2d3-9403-4dcc-8039-e9786f0bdca8",
+            "Value": {
+                "id": "e18c68f2-c3ba-48bd-96d3-599f1efef6d8",
+                "resourcePath": "objects\\obj_level\\obj_level.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "33f6d005-f145-4561-82b6-4f4315647448",
             "Value": {
                 "id": "9a5be3ac-b5fd-44c4-b252-ab589dbc1cca",
                 "resourcePath": "views\\33f6d005-f145-4561-82b6-4f4315647448.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4174cfcd-183c-4295-ac16-e72f3303e8b4",
+            "Value": {
+                "id": "308311fa-511b-4372-ad44-2fd2d5dc6539",
+                "resourcePath": "sprites\\spr_fog\\spr_fog.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -140,6 +164,14 @@
                 "id": "3e64f113-f91c-493b-b573-8619265cb8d8",
                 "resourcePath": "views\\ad149087-ba8d-4cf5-a4f3-9fdccf85be99.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "af461438-ce54-4fd9-b854-d0b54063ba87",
+            "Value": {
+                "id": "6794aea2-ca70-4a25-adde-b75181a36eda",
+                "resourcePath": "objects\\obj_fog\\obj_fog.yy",
+                "resourceType": "GMObject"
             }
         },
         {

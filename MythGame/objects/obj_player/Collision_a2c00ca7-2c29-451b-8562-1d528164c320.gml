@@ -1,7 +1,6 @@
 if(global.plr_direction == "up")
 {
 	place_meeting(obj_box.x,obj_box.y--,obj_box);
-	show_debug_message("Hitting box!!!");
 }
 
 if(global.plr_direction == "down")
