@@ -1,0 +1,1 @@
+Box collision crashes game when moving in multiple directions.

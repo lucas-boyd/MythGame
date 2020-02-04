@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "bb699ce4-8b31-4859-bb8d-4a0b135957be",
+            "Value": {
+                "id": "04914873-bfe5-4ec5-ad40-679b5dd99c21",
+                "resourcePath": "notes\\Crash Notes.yy",
+                "resourceType": "GMNotes"
+            }
+        },
+        {
             "Key": "bc95547b-43e1-4db9-b534-52059db9e6f5",
             "Value": {
                 "id": "172ec002-cc4c-4fe3-9d8e-6644d4caeb35",
