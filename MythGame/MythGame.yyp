@@ -42,7 +42,7 @@
             "Key": "04afb568-fc1a-411b-a397-9b37216ced03",
             "Value": {
                 "id": "ebdc45c4-4ffe-486c-9d3f-6a4c9df71162",
-                "resourcePath": "objects\\obj_fog_spawner\\obj_fog_spawner.yy",
+                "resourcePath": "objects\\obj_fog_spawner_lv1\\obj_fog_spawner_lv1.yy",
                 "resourceType": "GMObject"
             }
         },

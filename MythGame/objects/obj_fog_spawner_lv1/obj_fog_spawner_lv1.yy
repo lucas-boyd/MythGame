@@ -2,7 +2,7 @@
     "id": "04afb568-fc1a-411b-a397-9b37216ced03",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_fog_spawner",
+    "name": "obj_fog_spawner_lv1",
     "eventList": [
         {
             "id": "d41e0f50-1c31-487d-9967-f02c284e5819",

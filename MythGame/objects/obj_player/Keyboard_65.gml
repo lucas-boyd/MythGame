@@ -1,2 +1,5 @@
 x--;
-global.plr_direction = "left";
+if(global.plr_direction == "still")
+{
+	global.plr_direction = "left";
+}
