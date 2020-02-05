@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "6f1186f4-35ec-49c4-8f26-78a98993cb48",
+            "Value": {
+                "id": "4527c241-17e0-4ec2-8e27-5efd7dd594bc",
+                "resourcePath": "objects\\obj_fog_spawner_lv2\\obj_fog_spawner_lv2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "84021f7a-97a0-40ec-834c-b1dacf041183",
             "Value": {
                 "id": "c05f3896-5e35-4ada-adb9-36ae6020cff6",
@@ -171,6 +179,14 @@
             "Value": {
                 "id": "6794aea2-ca70-4a25-adde-b75181a36eda",
                 "resourcePath": "objects\\obj_fog\\obj_fog.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b7c3cfb1-20ed-405e-9db3-bad215499b4d",
+            "Value": {
+                "id": "19051711-7f3b-4a47-8920-a5e0f91f1cb9",
+                "resourcePath": "objects\\obj_fog_spawner_lv3\\obj_fog_spawner_lv3.yy",
                 "resourceType": "GMObject"
             }
         },
