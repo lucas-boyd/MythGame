@@ -1,19 +1,5 @@
-if(keyboard_check(ord("w")))
+if(layer_get_visible("Walls") == true)
 {
-	y++;
-}
-
-if(keyboard_check(ord("s")))
-{
-	y--;
-}
-
-if(keyboard_check(ord("a")))
-{
-	x++;
-}
-
-if(keyboard_check(ord("d")))
-{
-	x--;
+	x = xprevious;
+    y = yprevious;
 }
