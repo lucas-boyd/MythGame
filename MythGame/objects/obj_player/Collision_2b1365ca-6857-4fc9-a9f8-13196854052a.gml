@@ -6,6 +6,7 @@ if(global.stair_collided == false)
 		layer_set_visible("Walls",false);
 		layer_set_visible("Walls_Bridge",true);
 		global.stair_collided = true;
+		layer_set_visible("Bridges",false);
 	}
 	else
 	{
@@ -13,6 +14,7 @@ if(global.stair_collided == false)
 		layer_set_visible("Walls",true);
 		layer_set_visible("Walls_Bridge",false);
 		global.stair_collided = true;
+		layer_set_visible("Bridges",true);
 	}
 	show_debug_message(global.plr_elevation);
 }
