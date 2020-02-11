@@ -1,0 +1,1 @@
+global.stair_collided = false;
