@@ -1,4 +1,7 @@
 display_set_gui_size(768,432);
+global.plr_alive = true;
+global.plr_spawn_x = obj_player.x;
+global.plr_spawn_y = obj_player.y;
 
 //creates an 2d-array to store instance ids (used in conjunction with fog creation
 global.start_insts = instance_count;

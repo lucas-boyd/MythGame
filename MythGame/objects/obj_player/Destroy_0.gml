@@ -1,0 +1,1 @@
+global.plr_alive = false;

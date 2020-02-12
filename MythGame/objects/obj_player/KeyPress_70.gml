@@ -25,3 +25,7 @@ else if(global.fog_level == 3)
 {
 	instance_create_layer(0,0,"Instances",obj_fog_spawner_lv3);
 }
+else if(global.fog_level == 4)
+{
+	instance_destroy(id);
+}
