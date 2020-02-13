@@ -1,17 +1,10 @@
-//draw_sprite(spr_fog,0,camera_get_view_border_x(view_camera[0])-384,camera_get_view_border_y(view_camera[0])-216);
-
-var xfogLeft = -320;
-var xfogRight = 320;
-var yfogTop = -184;
-var yfogBot = 152;
-
-for(xfogLeft = -320; xfogLeft <= 320; xfogLeft+=32;)
+for(var i = 0; i <= 928; i+=32;)
 {
-	draw_sprite(spr_fog,0,camera_get_view_border_x(view_camera[0])+xfogLeft,camera_get_view_border_y(view_camera[0])+yfogTop);
-	draw_sprite(spr_fog,0,camera_get_view_border_x(view_camera[0])+xfogLeft,camera_get_view_border_y(view_camera[0])+yfogBot);
+	draw_sprite(spr_fog,0,i,32);
+	draw_sprite(spr_fog,0,i,476);
 }
-for(yfogTop = -184; yfogTop <= 184; yfogTop+=32;)
+for(var i = 0; i <= 508; i+=32;)
 {
-	draw_sprite(spr_fog,0,camera_get_view_border_x(view_camera[0])-xfogLeft,camera_get_view_border_y(view_camera[0])+yfogTop);
-	draw_sprite(spr_fog,0,camera_get_view_border_x(view_camera[0])+xfogRight,camera_get_view_border_y(view_camera[0])+yfogTop);
+	draw_sprite(spr_fog,0,32,i);
+	draw_sprite(spr_fog,0,896,i);
 }

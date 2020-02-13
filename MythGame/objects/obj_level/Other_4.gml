@@ -1,5 +1,4 @@
 display_set_gui_size(960,540);
-global.plr_alive = true;
 global.plr_spawn_x = obj_player.x;
 global.plr_spawn_y = obj_player.y;
 global.mem_collected = 0;
