@@ -1,4 +1,4 @@
-//show_debug_message(global.start_insts);
+show_debug_message(global.start_insts);
 global.fog_level++;
 //show_debug_message("first x: " + string(global.start_loc[0,1]));
 
@@ -6,7 +6,6 @@ for(var i = 0; i < global.start_insts; i++;)
 {
 	if(instance_id[i] != id)
 	{
-
 		instance_id[i].x = global.start_loc[i, 1];
 		instance_id[i].y = global.start_loc[i, 2];
 	}
