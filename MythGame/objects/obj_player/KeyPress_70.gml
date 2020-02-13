@@ -1,7 +1,6 @@
-show_debug_message(global.start_insts);
+//show_debug_message(global.start_insts);
 global.fog_level++;
-//show_debug_message("first x: " + string(global.start_loc[0,1]));
-
+/*
 for(var i = 0; i < global.start_insts; i++;)
 {
 	if(instance_id[i] != id)
@@ -10,8 +9,7 @@ for(var i = 0; i < global.start_insts; i++;)
 		instance_id[i].y = global.start_loc[i, 2];
 	}
 }
-
-//instance_create_layer(camera_get_view_x(view_camera[0]),camera_get_view_y(view_camera[0]),"Fog",obj_fog);
+*/
 if(global.fog_level == 1)
 {
 	instance_create_layer(0,0,"Instances",obj_fog_spawner_lv1);
