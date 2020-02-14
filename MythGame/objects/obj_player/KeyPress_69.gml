@@ -19,3 +19,7 @@ else if(global.can_disembark == true && global.plr_elevation == "water")
 	show_debug_message(x);
 	show_debug_message(y);
 }
+else
+{
+	show_debug_message("No collision!");
+}
