@@ -1,1 +1,1 @@
-room_goto(rm_64_test);
+room_goto(rm_level_select);

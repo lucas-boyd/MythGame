@@ -7,7 +7,8 @@
         "04afb568-fc1a-411b-a397-9b37216ced03",
         "6f1186f4-35ec-49c4-8f26-78a98993cb48",
         "b7c3cfb1-20ed-405e-9db3-bad215499b4d",
-        "2553e2d3-9403-4dcc-8039-e9786f0bdca8"
+        "2553e2d3-9403-4dcc-8039-e9786f0bdca8",
+        "410dec04-c7f0-46bd-856d-26ac19ee75f7"
     ],
     "filterType": "GMObject",
     "folderName": "Behind the Scenes",
