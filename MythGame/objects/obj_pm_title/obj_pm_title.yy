@@ -1,8 +1,8 @@
 {
-    "id": "530e1575-533d-43a4-b28e-b49b82dde0b5",
+    "id": "a889a206-4e0f-48f7-84b5-47a2532c079f",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_stairs",
+    "name": "obj_pm_title",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "d839cb9d-c648-44a6-9ed2-aa1a811e7c96",
+    "spriteId": "65097da0-30e2-4bb7-9e1d-66410bd84074",
     "visible": true
 }
