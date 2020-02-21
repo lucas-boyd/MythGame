@@ -3,5 +3,5 @@ if(global.pause == true)
 {
 	draw_sprite(spr_pm_background,0,128,62);
 	draw_sprite(spr_pm_title,0,384,90);
-	instance_create_layer(384,450,"GUI",obj_pm_exit);
+	draw_sprite(spr_pm_exit,0,384,450);
 }
