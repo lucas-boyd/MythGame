@@ -526,7 +526,7 @@
             "m_parentID": "00000000-0000-0000-0000-000000000000",
             "m_serialiseFrozen": false,
             "modelName": "GMRPathLayer",
-            "pathId": "83064345-c027-442c-9956-2b201a87ec66",
+            "pathId": "00000000-0000-0000-0000-000000000000",
             "mvc": "1.0",
             "userdefined_depth": false,
             "visible": false
