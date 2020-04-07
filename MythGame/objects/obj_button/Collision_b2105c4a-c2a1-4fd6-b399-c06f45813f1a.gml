@@ -4,3 +4,4 @@ if(global.clicked == false)
 }
 alarm[0] = 2;
 global.clicked = true;
+id.stepped_on = true;
