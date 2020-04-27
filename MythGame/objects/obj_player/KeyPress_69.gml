@@ -8,6 +8,7 @@ if(global.can_embark == true && global.plr_elevation == "ground")
 	y = global.point.y;
 	show_debug_message(x);
 	show_debug_message(y);
+	sprite_index = spr_playerBoatDown;
 }
 else if(global.can_disembark == true && global.plr_elevation == "water")
 {
@@ -18,6 +19,7 @@ else if(global.can_disembark == true && global.plr_elevation == "water")
 	y = global.point.y;
 	show_debug_message(x);
 	show_debug_message(y);
+	sprite_index = spr_player;
 }
 else
 {

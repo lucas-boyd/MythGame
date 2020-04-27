@@ -4,4 +4,6 @@ if(global.clicked == false)
 }
 alarm[0] = 2;
 global.clicked = true;
-stepped_on = true;
+
+inst = instance_nearest(x, y, obj_door);
+id.inst.sprite_index = spr_exit_open;

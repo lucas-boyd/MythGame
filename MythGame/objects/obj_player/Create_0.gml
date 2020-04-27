@@ -10,3 +10,4 @@ global.can_disembark = false;
 global.plr_alive = true;
 
 camera_set_view_pos(view_camera[0],obj_player.x-465,obj_player.y-241);
+global.step = 0;
